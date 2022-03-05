@@ -28,3 +28,11 @@ JS SDK for web and mobile.
 
 </br>
 
+## Initial release dat On
+
+March 5, 2022, the first website was develop.
+
+</br>
+
+## Developer
+Gemechu Taye 
