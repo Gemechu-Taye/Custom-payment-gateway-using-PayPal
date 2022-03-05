@@ -1,10 +1,11 @@
 # Custom payment gateway using PayPal Button 🚀
+</br> 
 
 This is demo project of Custom payment gateway by Integrating PayPal Checkout for online payments.
+</br> 
 
 This repo contains mini project of functional and responsive payment gateway using PayPal button.
 
-</br> 
 </br>
 
 ![This is an image](https://github.com/Gemechu-Taye/Custom-payment-gateway-using-PayPal/blob/main/Screenshot%202022-03-05%20at%202.57.37%20PM.png)
