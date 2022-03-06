@@ -8,7 +8,7 @@ This repo contains mini project of functional and responsive payment gateway usi
 
 </br>
 
-![This is an image](https://github.com/Gemechu-Taye/Custom-payment-gateway-using-PayPal/blob/main/melford-ui.png)
+![This is an image](https://github.com/Gemechu-Taye/Custom-payment-gateway-using-PayPal/blob/main/v1%20Frontend%20(UI)/Screenshot%202022-03-05%20at%202.57.37%20PM.png)
 
 
 </br>
