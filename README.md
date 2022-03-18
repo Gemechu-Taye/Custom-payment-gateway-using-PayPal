@@ -31,7 +31,7 @@ JS SDK for web and mobile.
 
 ## Initial release date On
 
-March 5, 2022, the first website was develop.
+March 5, 2022, the first website was developed.
 
 </br>
 
